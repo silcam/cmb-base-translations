@@ -1,0 +1,108 @@
+---
+fr:
+  date:
+    formats:
+      name: "%B %Y"
+      short: "%d %b %Y"
+      monthname: "%B"
+  time:
+    formats:
+      short: "%d %b %Y"
+
+  # General
+  Yes: &Yes Oui
+  No: &No Non
+  Welcome: Bienvenue
+  Tasks: Tâches
+  Events: Événements
+  Activity_feed: Flux d'activité
+  More_history: Plus
+  Search: Rechercher
+  View: Voir
+  Modify: &Modify Modifier
+  Correct: Corriger
+  Enter: Saisir
+  No_change: Aucun changement
+  Edit: Éditer
+  Next: Prochain
+  Finish: Compléter
+  Save: Enregistrer
+  Delete: &Delete Supprimer
+  Display: Montrer
+  Download: Télécharger
+  Logout: Déconnexion
+  Not_blank: ne peut pas être vide
+  must_exist: doit exister
+  No_go_back: Non, retourner
+  Go: Aller
+  Add: Ajouter
+  Show: Montrer
+  Back: Retourner
+  Destroy: *Delete
+  Assign: Attribuer
+  Are_you_sure: Vous êtes sûr?
+  error: faute
+  Other: Autre
+  New: Nouveau
+  Birth_date: &Birth_date Jour de naissance
+  Return_to: Retourner à
+  Gender: &Gender Sexe
+  Cancel: Annuler
+  Create: Créer
+  Update: *Modify
+  female: Femelle
+  male: Mâle
+  View_all: Voir tous
+  No_results_found: Aucun employé trouvé par «%{query}»
+  Days: jours
+
+  # Error messages
+  cant_be_in_future: ne peut pas être au futur.
+  is_invalid: n'est pas valide.
+
+  #Time and Date
+  Date: Date
+  Hours: Heures
+  Hours_for: Heures de
+  Week_of: Semaine du
+  Start_date: Date de commencement
+  End_date: Date de fin
+  Hours_per_day: &Hours_per_day Heures par jour
+  Days_per_week: Jours par semaine
+  hourly: Taux Horaire
+  monthly: Mensuel
+
+  # People
+  First_name: &First_name Prénom
+  Last_name: &Last_name Nom
+  Create_new_person: Créer une nouvelle personne
+  Use_existing_person: Utiliser une personne déjà faite
+  Marital_status: &Marital_status État civil
+  married_m: Marrié
+  married_f: Marriée
+  single: Célibataire
+  widowed_m: Veuf
+  widowed_f: Veuve
+
+  # Sessions & Users
+  Username: Identifiant
+  Password: Mot de passe
+  Login: Connecter
+  Logout: Déconnexion
+  Failed_login: Désolé, mais les parametres donnés ne sont pas corrects.
+  New_user_account: Nouveau compte utilisateur
+  Confirm_passwoerd: Confirmer mot de passe
+  Users: Utilisateurs
+  User: Utilisateur
+  Role: &Role Rôle
+  New_user: Nouvel utilisateur
+  Change_password: Changer mot de passe
+  Delete_account: Supprimer compte
+  Confirm_delete_account: Confirmez la supprimation du compte pour %{name}.
+  Change_preferred_language: Changer la langue préférée
+  Change_language: Changer la langue
+  Change_role: Changer le rôle
+
+  # Admin
+  Administration: Administration
+  Continue: Continuer

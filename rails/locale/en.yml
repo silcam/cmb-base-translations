@@ -1,0 +1,106 @@
+---
+en:
+  date:
+    formats:
+      name: "%B %Y"
+      short: "%d %b %Y"
+      monthname: "%B"
+  time:
+    formats:
+      short: "%d %b %Y"
+
+  # General
+  Yes: &Yes Yes
+  No: &No No
+  Welcome: Welcome
+  Tasks: Tasks
+  Events: Events
+  Activity_feed: Activity Feed
+  More_history: More history
+  Search: Search
+  View: View
+  Modify: &Modify Modify
+  Correct: Correct
+  Enter: Enter
+  No_change: No Change
+  Edit: Edit
+  Next: Next
+  Finish: Finish
+  Save: Save
+  Delete: &Delete Delete
+  Display: Display
+  Download: Download
+  Logout: Logout
+  Not_blank: can't be blank
+  must_exist: must exist
+  No_go_back: No, go back
+  Go: Go
+  Add: Add
+  Show: Show
+  Back: Back
+  Destroy: *Delete
+  Assign: Assign
+  Are_you_sure: Are you sure?
+  error: error
+  Other: Other
+  New: New
+  Birth_date: &Birth_date Birth Date
+  Return_to: Return to
+  Gender: &Gender Gender
+  Cancel: Cancel
+  Create: Create
+  Update: *Modify
+  female: Female
+  male: Male
+  View_all: View all
+  No_results_found: No employees found matching '%{query}'
+  Days: Days
+
+  # Error messages
+  cant_be_in_future: can't be in the future.
+  is_invalid: is invalid.
+
+  # Time and Date
+  Date: Date
+  Hours: Hours
+  Hours_for: Hours for
+  Week_of: Week of
+  Start_date: Start Date
+  End_date: End Date
+  Hours_per_day: &Hours_per_day Hours per day
+  Days_per_week: Days per week
+  hourly: Hourly
+  monthly: Monthly
+
+  # People
+  First_name: &First_name First Name
+  Last_name: &Last_name Last Name
+  Create_new_person: Create New Person
+  Use_existing_person: Use Existing Person
+  Marital_status: &Marital_status Marital Status 
+  married: Married
+  single: Single
+  widowed: Widowed
+
+  # Sessions & Users
+  Username: Username
+  Password: Password
+  Login: Log in
+  Logout: Log out
+  Failed_login: Sorry, the username or password is incorrect.
+  New_user_account: New User Account
+  Confirm_password: Confirm Password
+  Users: Users
+  User: User
+  Role: Role
+  New_user: New User
+  Change_password: Change Password
+  Delete_account: Delete Account
+  Confirm_delete_account: Are you sure you want to delete the account for %{name}?
+  Change_preferred_language: Change Preferred Language
+  Change_language: Change Language
+  Change_role: Change Role
+
+  # Admin
+  Administration: Administration
+  Continue: Continue
