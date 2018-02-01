@@ -61,6 +61,8 @@ en:
   Title: Title
   Titles: Titles
   Category: Category
+  Number: Number
+  Expiration_date: Expiration Date
 
   # Actions
   Submit: Submit

@@ -61,6 +61,8 @@ fr:
   Title: Titre
   Titles: Titres
   Category: Catégoire
+  Number: Numéro
+  Expiration_date: Date d'Expiration
 
   # Actions
   Submit: Envoyer
