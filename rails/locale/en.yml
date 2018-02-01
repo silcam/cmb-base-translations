@@ -51,13 +51,19 @@ en:
   Cancel: Cancel
   Create: Create
   Update: *Modify
-  female: Female
-  male: Male
+  female: &female Female
+  gender_m: *female
+  male: &male Male
+  gender_m: *male
   View_all: View all
   No_results_found: No employees found matching '%{query}'
   Days: Days
   Title: Title
   Titles: Titles
+  Category: Category
+
+  # Actions
+  Submit: Submit
 
   # Error messages
   cant_be_in_future: can't be in the future.
@@ -77,6 +83,7 @@ en:
 
   # People
   People: People
+  Name: Name
   First_name: &First_name First Name
   Last_name: &Last_name Last Name
   Create_new_person: Create New Person
@@ -85,6 +92,7 @@ en:
   married: Married
   single: Single
   widowed: Widowed
+  Nationality: Nationality
 
   # Sessions & Users
   Username: Username
