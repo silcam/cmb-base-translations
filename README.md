@@ -24,6 +24,9 @@ After it's installed in your project, everything should Just Work.
 * Bump the version.
 * commit and push to github
 * Then, `bundle update` the app you're working with.
+* and don't forget to restar the rails server, if it is running.
+
+(The i18n configs are loaded during the initialization of the rails app.)
 
 ## Contributing
 
