@@ -12,6 +12,7 @@ en:
   # General
   Yes: &Yes Yes
   No: &No No
+  Home: Home
   Welcome: Welcome
   Tasks: Tasks
   Events: Events
@@ -55,6 +56,8 @@ en:
   View_all: View all
   No_results_found: No employees found matching '%{query}'
   Days: Days
+  Title: Title
+  Titles: Titles
 
   # Error messages
   cant_be_in_future: can't be in the future.
@@ -73,6 +76,7 @@ en:
   monthly: Monthly
 
   # People
+  People: People
   First_name: &First_name First Name
   Last_name: &Last_name Last Name
   Create_new_person: Create New Person
