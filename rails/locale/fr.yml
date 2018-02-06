@@ -63,6 +63,9 @@ fr:
   Category: Catégoire
   Number: Numéro
   Expiration_date: Date d'Expiration
+  None: Aucun(e)
+  None_m: Aucun
+  None_f: Aucune
 
   # Actions
   Submit: Envoyer

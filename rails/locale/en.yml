@@ -63,6 +63,9 @@ en:
   Category: Category
   Number: Number
   Expiration_date: Expiration Date
+  None: &None None
+  None_m: *None
+  None_f: *None
 
   # Actions
   Submit: Submit
